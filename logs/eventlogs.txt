@@ -1,0 +1,1 @@
+20231201	15:21:42	7ca7f1f0-ae08-4aa5-b2ba-fbc2273ddff7	log event emitted
